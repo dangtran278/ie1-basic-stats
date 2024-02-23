@@ -1,4 +1,4 @@
-Second edit to _README.md_ for task 5.
+Edit _README.md_ for first commit of task 5.
 
 # Basic Statistics
 
